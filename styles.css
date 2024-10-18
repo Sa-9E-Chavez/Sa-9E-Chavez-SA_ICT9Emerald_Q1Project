@@ -1,0 +1,107 @@
+body {
+	font-family: cursive;
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+}
+
+h1 {
+	text-align: center;
+	margin: auto;
+}
+
+h2 {
+	margin: auto;
+	text-align: center;
+	font-size: 100px;
+}
+
+li {
+	text-align: left;
+}
+
+.whole {
+	justify-content: space-around;
+	display: flex;
+	margin: auto;
+	background-color: lightslategray;
+	border: 5px solid;
+	padding: 10px;
+	width:90%;
+	height: 500px;
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+}
+
+.whole2 {
+	justify-content: space-around;
+	display: flex;
+	margin: auto;
+	background-color: lightslategray;
+	border: 5px solid;
+	padding: 10px;
+	width:90%;
+	height: 600px;
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+}
+
+.product {
+	background-color: lightgray;
+	width: 10%;
+	border: 5px solid;
+	border-color: darkgray;
+	padding: 40px;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px 6px black;
+	margin: auto;
+	text-align: center;
+}
+
+.pipe1 {
+	justify-content: space-around;
+	display: flex;
+	margin: auto;
+	background-color: lightslategray;
+	border: 5px solid;
+	padding: 10px;
+	width:50%;
+	height: 250px;
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+
+	background-color: lightgray;
+	width: 10%;
+	border: 5px solid;
+	border-color: darkgray;
+	padding: 40px;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px 6px black;
+	margin: auto;
+	text-align: center;
+}
+
+.submit_button {
+	color: black;
+	background-color: lightgreen;
+	border: 2px, solid;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.submit_button:hover {
+	background-color: darkgreen;
+}
+
+.image1 {
+	height: 150px;
+	width: 100%;
+}
+
+.image2 {
+	height: 150px;
+	width: 100%;
+}
